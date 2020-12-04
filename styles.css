@@ -1,0 +1,14 @@
+.navbar-dark {
+  background-color: red; 
+}
+
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: #ffcccb !important;
+  color: black; 
+}
+
+#psswd{
+	display: none;
+}
